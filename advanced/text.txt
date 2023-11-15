@@ -1,0 +1,10 @@
+it
+will
+be
+read
+in a
+ruby
+programit
+will
+be
+write
